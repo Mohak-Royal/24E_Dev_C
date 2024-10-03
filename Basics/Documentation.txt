@@ -1,0 +1,38 @@
+1. Documentation 
+
+ - Comments: it is used to provide extra information or to write 
+             something that is to be ignored by c.
+
+	- There are two types of comments
+
+		a. Single Line Comment : it is used when we need to comment a single line.
+			- Syntax(way of writing): 
+
+				//  hello there i am a student at royal	
+
+
+
+		b. Multi Line Comment : it is used when we need to comment multiple lines.
+			- Syntax: 
+
+				/* 
+				 hello there i am a
+				 student at royal
+				 i am dev
+				*/
+
+
+
+
+- Documentation
+	-name , doc(date of creation) , purpose
+
+
+
+
+Types of Slash: 
+
+
+/ : Forward Slash
+\ : Backward Slash
+
