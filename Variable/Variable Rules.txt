@@ -1,0 +1,28 @@
+Variable naming: 
+
+
+
+Rules:    
+
+	- variable name can contain alphabets , numbers , underscore
+	- variable name cannot have special symbols : # , $ , % , ^ , &
+	- variable name can only start with alphabets or underscore.
+	- variable name is case sensitive.
+	- variable name cannot be same as keywords. (int , printf)
+
+
+valid or not valid: 
+
+
+num : valid
+num1 : valid
+your_age : valid
+_college : valid
+_123 : valid
+1num : not valid
+num#1 : not valid
+(num) : not valid
+
+
+
+
