@@ -1,0 +1,25 @@
+Compute the difference between the product and the sum of two numbers:
+
+Triple the value of a number:
+
+Calculate the average of three numbers:
+
+Calculate the perimeter of a rectangle given its width and height:
+
+Calculate the area of a rectangle given its width and height:
+
+Calculate the difference between the squares of two numbers:
+
+Given the price of an item and the quantity purchased, calculate the total cost:
+
+Calculate the total time spent on tasks given the time spent on each task:
+
+Calculate the amount of money saved after applying a discount to a purchase:
+
+Determine how much money you save each month if you set aside a fixed amount:
+
+Convert a given number of hours into minutes:
+
+Calculate the interest earned on savings given the principal, interest rate, and time period:
+
+Calculate the total distance traveled given speed and time:
